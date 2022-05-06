@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@/*":[
+        "src/"
+      ]
+    }
+  },
+  "exclude": [
+    // 在以下文件夹中不生效
+    "node_modules",
+    "dist"
+  ]
+}
