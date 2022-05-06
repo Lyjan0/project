@@ -30,6 +30,7 @@ export default {
   method(){
     console.log('1');
   }
+}
 </script>
 
 <style>

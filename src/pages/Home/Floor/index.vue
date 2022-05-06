@@ -69,6 +69,9 @@ export default {
         {id:"3",imgUrl:'/images/floor-1-b03.png'}
       ]
     }
+  },
+  method(){
+    console.log('2');
   }
 }
 </script>
